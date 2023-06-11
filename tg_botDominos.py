@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import json
 from aiogram.dispatcher.filters import Text
 
-bot = Bot(token=token, parse_mode=types.ParseMode.HTML)
+bot = Bot(token="Yourtoken", parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
 
 
