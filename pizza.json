@@ -1,0 +1,218 @@
+{
+    "Пепперони Делюкс 100new": {
+        "name": "Пепперони Делюкс 100new",
+        "consist": "Сыр моцарелла, томатный соус domino's, пепперони",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2023/05/04/Pepperony_Delux_100_small.png\"",
+        "cosht": "от 30.49 руб"
+    },
+    "Митболло": {
+        "name": "Митболло",
+        "consist": "Соус бургер, митболы из говядины, огурцы, сыр моцарелла, курица, лук, сладкий перец",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2022/10/12/Mitbollo_small.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "4 Сезонахит": {
+        "name": "4 Сезонахит",
+        "consist": "Соус ранч, опята, томаты, пепперони, фета, ананас, сыр моцарелла, креветки",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2022/06/08/4_sezona_259x259.png\"",
+        "cosht": "от 28.49 руб"
+    },
+    "Болоньезе": {
+        "name": "Болоньезе",
+        "consist": "Ветчина, шампиньоны, митболы из говядины, томатный соус domino's, лук, сыр моцарелла",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2023/05/04/Bolonieze_bez_tomatov_small.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Карбонара": {
+        "name": "Карбонара",
+        "consist": "Шампиньоны, лук, крем фреш, бекон, сыр моцарелла, ветчина",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2018/09/12/carbonara.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Мит&Чиз": {
+        "name": "Мит&Чиз",
+        "consist": "Бекон, курица, сыр моцарелла, ветчина, сладкий перец, соус сырный",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2023/05/04/Meat__Cheese_bez_tomatov_small.png\"",
+        "cosht": "от 20.99 руб"
+    },
+    "Мюнхенская": {
+        "name": "Мюнхенская",
+        "consist": "Баварские колбаски, соус барбекю, горчица, сыр моцарелла, мюнхенские колбаски, ветчина",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2023/05/04/myunkhenskaya_bez_tomatov_small.png\"",
+        "cosht": "от 22.99 руб"
+    },
+    "Говядина BURGER": {
+        "name": "Говядина BURGER",
+        "consist": "Шампиньоны, телятина, сыр моцарелла, соус бургер, лук, огурцы",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2020/03/11/govyadina_burger_small.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Чеддерони": {
+        "name": "Чеддерони",
+        "consist": "Пепперони, сыр моцарелла, чеддер, ветчина, крем фреш",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2021/10/14/chedderoni_small.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Прованс": {
+        "name": "Прованс",
+        "consist": "Томаты, сыр моцарелла, голубой сыр, крем фреш, ветчина, пепперони",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2018/09/12/provence.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Доминос Фирменнаяхит": {
+        "name": "Доминос Фирменнаяхит",
+        "consist": "Пармезан, курица, сыр моцарелла, лук, томатный соус domino's, бекон, сладкий перец, буженина, телятина, шампиньоны",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2023/05/04/firmennaya_bez_tomatov_small.png\"",
+        "cosht": "от 22.99 руб"
+    },
+    "Фермерская": {
+        "name": "Фермерская",
+        "consist": "Сыр моцарелла, соус ранч, ветчина, огурцы",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2019/10/18/fermerskaya_small.png\"",
+        "cosht": "от 13.99 руб"
+    },
+    "5 Сыров": {
+        "name": "5 Сыров",
+        "consist": "Фета, пармезан, голубой сыр, крем фреш, сыр моцарелла, чеддер",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2018/09/12/5_syrov.png\"",
+        "cosht": "от 20.99 руб"
+    },
+    "Грибная с голубым сыром": {
+        "name": "Грибная с голубым сыром",
+        "consist": "Опята, сыр моцарелла, соус ранч, голубой сыр, шампиньоны",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2019/07/29/gribnaya_small.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Спайси": {
+        "name": "Спайси",
+        "consist": "Халапеньо, томатный соус domino's, сыр моцарелла, пепперони, бекон",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2023/05/04/spice_bez_tomatov_small.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Цыпленок Доминатор": {
+        "name": "Цыпленок Доминатор",
+        "consist": "Мюнхенские колбаски, курица, сыр моцарелла, соус ранч, огурцы, сладкий перец",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2023/05/04/tsyplenok__dominator_bez_tomatov_small.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Экстраваганzzа": {
+        "name": "Экстраваганzzа",
+        "consist": "Телятина, шампиньоны, сыр моцарелла, томатный соус domino's, сладкий перец, пепперони, лук, оливки, ветчина",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2020/04/21/eksravaganzza_small-min.png\"",
+        "cosht": "от 22.99 руб"
+    },
+    "Супер Пепперони": {
+        "name": "Супер Пепперони",
+        "consist": "Томатный соус domino's, сыр моцарелла, пепперони",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2020/07/14/super_pepperoni_small-min.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Барбекю": {
+        "name": "Барбекю",
+        "consist": "Лук, курица, соус барбекю, бекон, шампиньоны, сыр моцарелла",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2018/09/12/barbecue.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Кантри": {
+        "name": "Кантри",
+        "consist": "Соус ранч, лук, ветчина, сыр моцарелла, огурцы, шампиньоны, бекон",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2018/09/12/kantri.png\"",
+        "cosht": "от 20.99 руб"
+    },
+    "Гипнотика": {
+        "name": "Гипнотика",
+        "consist": "Бекон, сыр моцарелла, соус барбекю, пепперони, обжаренный лук, крем фреш, телятина, шпинат",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2020/01/09/gipnotika_small.png\"",
+        "cosht": "от 20.99 руб"
+    },
+    "Пепперони Блюз": {
+        "name": "Пепперони Блюз",
+        "consist": "Голубой сыр, пепперони, сыр моцарелла, соус ранч",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2018/09/12/pepperoni_bluz.png\"",
+        "cosht": "от 13.99 руб"
+    },
+    "Тоскана": {
+        "name": "Тоскана",
+        "consist": "Томаты, фета, курица, сыр моцарелла, соус ранч, шпинат",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2018/09/12/toskana.png\"",
+        "cosht": "от 20.99 руб"
+    },
+    "Чикен Карри": {
+        "name": "Чикен Карри",
+        "consist": "Мюнхенские колбаски, соус карри, сыр моцарелла, ананас, ветчина, курица",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2020/04/21/%D1%81hicken_curry_small-min.png\"",
+        "cosht": "от 20.99 руб"
+    },
+    "Креветки с ананасами": {
+        "name": "Креветки с ананасами",
+        "consist": "Креветки x 2, шампиньоны, ананас, сыр моцарелла, соус ранч",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2018/09/12/krevetki_s_ananasom.png\"",
+        "cosht": "от 20.99 руб"
+    },
+    "Овощная": {
+        "name": "Овощная",
+        "consist": "Сладкий перец, сыр моцарелла, лук, оливки, шампиньоны, томатный соус domino's",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2023/05/04/ovoshchnaya_bez_tomatov_big.png\"",
+        "cosht": "от 13.99 руб"
+    },
+    "Митzzа": {
+        "name": "Митzzа",
+        "consist": "Бекон, сыр моцарелла, ветчина, пармезан, буженина, телятина, пепперони, томатный соус domino's",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2018/09/12/mizza.png\"",
+        "cosht": "от 22.99 руб"
+    },
+    "Баварская": {
+        "name": "Баварская",
+        "consist": "Пармезан, сыр моцарелла, халапеньо, баварские колбаски, соус барбекю",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2019/07/03/bavarchkaya_small.png\"",
+        "cosht": "от 13.99 руб"
+    },
+    "Сытная": {
+        "name": "Сытная",
+        "consist": "Пепперони, баварские колбаски, соус бургер, сыр моцарелла",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2020/11/18/syitnaya_small.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Хатняя": {
+        "name": "Хатняя",
+        "consist": "Картофельные дольки, обжаренный лук, курица, баварские колбаски x 2, соус ранч, сыр моцарелла, огурцы",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2020/09/18/Hatnyaya_small.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Гавайская": {
+        "name": "Гавайская",
+        "consist": "Курица, соус сырный, сыр моцарелла, ананас, ветчина",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2022/04/18/gavayskaya_new_smalll.png\"",
+        "cosht": "от 18.49 руб"
+    },
+    "Охотничья": {
+        "name": "Охотничья",
+        "consist": "Сыр моцарелла, соус ранч, баварские колбаски, шампиньоны",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2022/04/01/okhotnichya_small.png\"",
+        "cosht": "от 8.99 руб"
+    },
+    "Ветчина и грибы": {
+        "name": "Ветчина и грибы",
+        "consist": "Томатный соус domino's, ветчина, шампиньоны, сыр моцарелла",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2018/09/12/vetchina_i_griby.png\"",
+        "cosht": "от 13.99 руб"
+    },
+    "Маргарита": {
+        "name": "Маргарита",
+        "consist": "Томатный соус domino's, сыр моцарелла",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2018/09/12/margarita.png\"",
+        "cosht": "от 8.99 руб"
+    },
+    "Пепперони": {
+        "name": "Пепперони",
+        "consist": "Томатный соус domino's, пепперони, сыр моцарелла",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2018/09/12/pepperoni.png\"",
+        "cosht": "от 13.99 руб"
+    },
+    "Салями Ранчnew": {
+        "name": "Салями Ранчnew",
+        "consist": "Сыр моцарелла, пепперони, соус ранч",
+        "image": "\"https://images.dominos.by/media/dominos/osg/api/2022/04/01/salyami_ranch_small.png\"",
+        "cosht": "от 8.99 руб"
+    }
+}
