@@ -1,7 +1,7 @@
 *.log
 build/*
 .idea/*
-__pycahe__/*
+__pycache__/*
 test.py
 test2.py
 config.py
