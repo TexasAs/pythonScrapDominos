@@ -1,8 +1,7 @@
-# Default ignored files
 *.log
-/build
-/.idea
-/__pycahe__
+build/*
+.idea/*
+__pycahe__/*
 test.py
 test2.py
 config.py
